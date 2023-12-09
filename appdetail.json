@@ -2,9 +2,10 @@
     "data": [
         {
             "appname":"prank call",
-            "fb_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID1211",
-            "fb_inter": "1837077653374199_1838284313253533",
-            "fb_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID212121",
+            "fb_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "fb_inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "fb_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "fb_inter_real":"1837077653374199_1838284313253533",
             "fb_reward": "",
             "fb_intervid": "",
             "fb_nativebanner": "",
