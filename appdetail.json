@@ -31,7 +31,19 @@
                
             
             ],
-          
+            "link_game":"https://play4128.atmegame.com/start",
+          "link_game_banner":
+            
+            [
+                "https://statussaver541.github.io/randomcall/banner/1.png",
+                "https://statussaver541.github.io/randomcall/banner/2.png",
+                "https://statussaver541.github.io/randomcall/banner/3.png",
+                "https://statussaver541.github.io/randomcall/banner/4.png",
+                "https://statussaver541.github.io/randomcall/banner/5.png",
+                "https://statussaver541.github.io/randomcall/banner/6.png"
+               
+            
+            ],
             "fb_reward": "",
             "fb_intervid": "",
             "fb_nativebanner": "",
